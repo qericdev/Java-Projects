@@ -7,3 +7,4 @@ Java Projects from Hyperskill
 4. ASCII mirror: Program written in JAVA that reads from files to print on the screen.
 5. Simple Chatty Bot: Simple program written in JAVA, using inputs and screen prints.
 6. Cinema REST Room Service: Program build with JAVA and Spring BOOT that allow to buy tickets, thrown errors, request params and bodies.
+7. Chuck Norris Cipher Encoder: Program that encode and decode strings in binary following a pattern.
