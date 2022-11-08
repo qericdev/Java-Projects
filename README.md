@@ -8,3 +8,4 @@ Java Projects from Hyperskill
 5. Simple Chatty Bot: Simple program written in JAVA, using inputs and screen prints.
 6. Cinema REST Room Service: Program build with JAVA and Spring BOOT that allow to buy tickets, thrown errors, request params and bodies.
 7. Chuck Norris Cipher Encoder: Program that encode and decode strings in binary following a pattern.
+8. Converter: Program that converts from one base to another base. Allows BigIntegers or BigDecimal from numeric base system from 2 to 36.
